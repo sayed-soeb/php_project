@@ -17,9 +17,7 @@ This repository contains a PHP project for creating a student registration form 
 
 3. Import the `database.sql` file located in the project's root directory into your newly created database.
 
-4. Update the database connection settings in the `config.php` file located in the `includes` directory with your database credentials.
-
-5. Upload the project files to your web server's document root directory.
+4. Upload the project files to your web server's document root directory.
 
 ## Usage
 
