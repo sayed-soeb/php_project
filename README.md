@@ -42,8 +42,3 @@ Contributions to this project are welcome. If you encounter any issues or have s
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
-## Acknowledgments
-
-- Thanks to the PHP community for their valuable resources and documentation.
-- Special thanks to OpenAI for the development of GPT-3.5, which assisted in generating this README file.
